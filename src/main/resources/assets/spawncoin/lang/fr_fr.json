@@ -1,0 +1,9 @@
+{
+  "item.spawncoin.coin": "Pièce aller-retour",
+  "message.spawncoin.given": "Pièce reçue !",
+  "message.spawncoin.riding": "Descends de ta monture avant de te téléporter.",
+  "message.spawncoin.missing": "Dimension introuvable. Point de retour conservé.",
+  "message.spawncoin.unsafe": "Destination bloquée ou hors limites. Téléportation annulée.",
+  "message.spawncoin.returned": "Retour au point de départ !",
+  "message.spawncoin.spawn": "Au spawn ! Réutilise la pièce pour revenir."
+}
