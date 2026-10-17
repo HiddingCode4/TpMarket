@@ -1,0 +1,9 @@
+{
+  "item.spawncoin.coin": "Return Coin",
+  "message.spawncoin.given": "Coin received!",
+  "message.spawncoin.riding": "Dismount before teleporting.",
+  "message.spawncoin.missing": "Dimension missing. Return point kept.",
+  "message.spawncoin.unsafe": "Destination blocked or out of bounds. Teleport cancelled.",
+  "message.spawncoin.returned": "Back to your starting point!",
+  "message.spawncoin.spawn": "At spawn! Use the coin again to return."
+}
